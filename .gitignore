@@ -1,0 +1,3 @@
+echo a.exe >> .gitignore
+echo *.exe >> .gitignore
+echo .vscode/ >> .gitignore
