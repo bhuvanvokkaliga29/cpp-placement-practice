@@ -1,4 +1,3 @@
-// Reverse an array without using extra space (Two Pointer Method)
 
 #include <iostream>
 using namespace std;
